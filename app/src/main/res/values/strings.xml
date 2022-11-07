@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My App1</string>
+    <string name="string_hello_world">Hello world</string>
+    <string name="string_hello_world2">Hello LQP</string>
+</resources>
